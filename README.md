@@ -1,11 +1,16 @@
-### Hi there 👋
+## Hi there 👋
+I am a trained computer scientist that started out as self-tought programmer, I will always try to sharpen my skills.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinocodedemon&show_icons=true&count_private=true&theme=gruvbox&hide=stars)
+
+ I’m currently working on the Discord Bot [Aeses](), It's entirely free to use and to self-host.
+
+ If you have ideas for me I am always open and will find solutions to implement those into my future projects.
 
 <!--
 **ChinoCodeDemon/ChinoCodeDemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
