@@ -7,5 +7,5 @@ I am a trained computer scientist that started out as self-tought programmer, I 
 
  If you have ideas for me I am always open and will find solutions to implement those into my future projects.
 
-I also suggest going on my [Gitea server](https://git.serx.it/explore/repos), for a different and more organized view over my projects (without forks and contributions).
+I also suggest going on my [Gitea server](https://git.aciralith.com/explore/repos), for a different and more organized view over my projects (without forks and contributions).
 _Please note that Github pushes will be seen as untrusted on Gitea_
