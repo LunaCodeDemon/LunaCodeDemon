@@ -6,7 +6,7 @@ Since I have thought bursts, I often think about solutions to future problems th
 My goal in life is to become one of the best software developers in the world, refining my experience with every day,
 Currently I am struggling to get into the apprenticeship I devoted my life for, so I will search until I find a place that accepts my skills.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinocodedemon&show_icons=true&count_private=true&theme=gruvbox&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunacodedemon&show_icons=true&count_private=true&theme=gruvbox&hide=stars)
 
  I’m currently working on the Discord Bot [Aeses](https://github.com/LunaCodeDemon/Aeses), It's entirely free to use and to self-host.
 
