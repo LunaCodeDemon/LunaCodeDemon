@@ -8,7 +8,7 @@ Currently I am struggling to get into the apprenticeship I devoted my life for, 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinocodedemon&show_icons=true&count_private=true&theme=gruvbox&hide=stars)
 
- I’m currently working on the Discord Bot [Aeses](https://github.com/ChinoCodeDemon/Aeses), It's entirely free to use and to self-host.
+ I’m currently working on the Discord Bot [Aeses](https://github.com/LunaCodeDemon/Aeses), It's entirely free to use and to self-host.
 
  If you have ideas for me I am always open and will find solutions to implement those into my future projects.
 
